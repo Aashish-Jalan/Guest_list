@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+button{
+    border-radius: 30%;
+    background: navajowhite;
+    
+}
+#sumbit_button
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort_button
+{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
